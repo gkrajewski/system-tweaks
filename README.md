@@ -1,6 +1,10 @@
-# Bash Functions and Useful Scripts
+# Useful System (macOS) Tweaks
 
 A collection of reusable Bash functions and other personal tweaks.
+mostly macOS targeted.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+*Note: Some snippets are adapted from community sources — see License & Attribution section.*
 
 ## Bash Functions
 
@@ -21,3 +25,14 @@ if [ -d "$HOME/{repo_directory}" ]; then
   done
 fi
 ```
+
+# License & Attribution
+
+This repository is licensed under the MIT License.
+
+It is a personal collection of system tweaks and utilities, accumulated and refined over many years.
+Some scripts are entirely my own work, while others are adaptations or improvements of snippets found in public sources.
+Where possible, I’ve acknowledged original authors in code comments.
+
+If you recognize material of yours here that lacks proper attribution,
+please let me know — I’ll be happy to add credit or clarify licensing.

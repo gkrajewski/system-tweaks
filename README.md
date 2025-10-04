@@ -1,10 +1,10 @@
 # Useful System (macOS) Tweaks
 
-A collection of reusable Bash functions and other personal tweaks.
+A collection of reusable Bash functions and other personal tweaks,
 mostly macOS targeted.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-*Note: Some snippets are adapted from community sources — see License & Attribution section.*
+*Note: Some snippets are adapted from community sources — see [License & Attribution](#license--attribution) section.*
 
 ## Bash Functions
 
@@ -26,7 +26,7 @@ if [ -d "$HOME/{repo_directory}" ]; then
 fi
 ```
 
-# License & Attribution
+### License & Attribution
 
 This repository is licensed under the MIT License.
 
